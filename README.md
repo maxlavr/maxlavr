@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps
-- 📫 How to reach me ...
+- 📫 How to reach me - mr.lavrovichev@gmail.com
 
 <!---
 maxlavr/maxlavr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
